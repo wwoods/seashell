@@ -1,0 +1,6 @@
+
+To-Do List for seashell
+- Threading support
+- Window Creation
+- Input/Text system (Examine unicode a bit more)
+- Graphical engine layout / DX coding
